@@ -1,6 +1,6 @@
 # Hi, I'm Garion Milazzo
 
-Computer Science student at the University of New Mexico focused on software engineering, machine learning, and simulation-driven projects.
+Computer Science student at the University of New Mexico focused on software engineering, machine learning, and data science projects.
 
 I'm most interested in building software that combines solid engineering fundamentals with interesting problem solving, especially in backend systems, applied ML, algorithms, and developer-facing tools.
 
@@ -8,7 +8,7 @@ I'm most interested in building software that combines solid engineering fundame
 
 - Building out interview-ready project repositories and documentation
 - Exploring backend and web development alongside my existing Java, Python, and Haskell work
-- Developing simulation and modeling projects, including a vehicle ownership cost simulator
+- Building projects in data science, modeling, and backend development
 - Growing my machine learning experience through computer vision and data-focused projects
 
 ## Tech Stack
