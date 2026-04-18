@@ -18,6 +18,11 @@ I like projects that mix clear engineering fundamentals with interesting problem
 - [pytest-dev/pytest#14391](https://github.com/pytest-dev/pytest/pull/14391)
   Updated `pytest.raises(..., match=...)` failures to preserve the original exception as the direct cause of the resulting `AssertionError`, with test coverage and changelog updates.
 
+## Featured Project
+
+- [WildFireDetector](https://github.com/lavaFreak/WildFireDetector)
+  Public wildfire image-classification project with reproducible baselines, experiment tracking, arbitrary-image inference, and a final model that reached `96.5%` test accuracy with `0.991` AUC.
+
 ## Tech Stack
 
 - Languages: Python, Java, Haskell, C, JavaScript, TypeScript
@@ -27,13 +32,13 @@ I like projects that mix clear engineering fundamentals with interesting problem
 
 ## What You'll Find Here
 
-- Public repositories that are being cleaned up and documented for interview-ready presentation
+- Public repositories packaged for interview-ready presentation
 - Open-source contributions showing how I work in existing codebases
-- Coursework and personal projects centered on software engineering, ML, and problem solving
+- Projects centered on software engineering, ML, debugging, and problem solving
 
 ## Contact
 
 - Email: [gemilazzo@gmail.com](mailto:gemilazzo@gmail.com)
 - GitHub: [github.com/lavaFreak](https://github.com/lavaFreak)
 
-More polished project repositories are on the way as I finish packaging them for public release.
+More polished public projects are in progress as I keep rounding out backend, ML, and developer-tooling work.
