@@ -9,7 +9,7 @@ I like projects that mix clear engineering fundamentals with interesting problem
 - Backend and full-stack software engineering
 - Applied machine learning and data-focused projects
 - Open-source contribution workflow: debugging, testing, code review, and pull requests
-- Building polished, interview-ready public repositories
+- Building polished software projects and developer-facing tools
 
 ## Recent Open-Source Contributions
 
@@ -21,7 +21,7 @@ I like projects that mix clear engineering fundamentals with interesting problem
 ## Featured Project
 
 - [WildFireDetector](https://github.com/lavaFreak/WildFireDetector)
-  Public wildfire image-classification project with reproducible baselines, experiment tracking, arbitrary-image inference, and a final model that reached `96.5%` test accuracy with `0.991` AUC.
+  Wildfire image-classification project with reproducible baselines, experiment tracking, arbitrary-image inference, and a final model that reached `96.5%` test accuracy with `0.991` AUC.
 
 ## Tech Stack
 
@@ -32,13 +32,12 @@ I like projects that mix clear engineering fundamentals with interesting problem
 
 ## What You'll Find Here
 
-- Public repositories packaged for interview-ready presentation
+- Repositories centered on software engineering, ML, debugging, and problem solving
 - Open-source contributions showing how I work in existing codebases
-- Projects centered on software engineering, ML, debugging, and problem solving
 
 ## Contact
 
 - Email: [gemilazzo@gmail.com](mailto:gemilazzo@gmail.com)
 - GitHub: [github.com/lavaFreak](https://github.com/lavaFreak)
 
-More polished public projects are in progress as I keep rounding out backend, ML, and developer-tooling work.
+More projects are in progress as I keep rounding out backend, ML, and developer-tooling work.
