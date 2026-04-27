@@ -25,7 +25,7 @@ I like projects that mix clear engineering fundamentals with interesting problem
 
 ## Tech Stack
 
-- Languages: Python, Java, Haskell, C, JavaScript, TypeScript
+- Languages: Python, Java, Haskell, C, C++, JavaScript, TypeScript
 - Libraries and tools: TensorFlow, OpenCV, NumPy, Pandas, Git, pytest
 - Areas of interest: backend development, ML, developer tooling, debugging, testing
 - Environment: Linux, macOS
