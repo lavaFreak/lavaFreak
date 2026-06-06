@@ -1,43 +1,40 @@
 # Garion Milazzo
 
-Computer Science student at the University of New Mexico focused on software engineering, backend systems, machine learning, and developer-facing tools.
+Computer Science student at the University of New Mexico focused on software engineering, open-source contribution, and scientific / ML tooling.
 
-I like projects that mix clear engineering fundamentals with interesting problem solving: debugging real codebases, designing maintainable systems, and building things that are useful to other people.
+I like working in real codebases: reproducing bugs, adding regression tests, tightening edge cases, and shipping fixes that make tools more reliable.
 
-## What I'm Focused On
+## What I'm Working On
 
-- Backend and full-stack software engineering
-- Applied machine learning and data-focused projects
-- Open-source contribution workflow: debugging, testing, code review, and pull requests
-- Building polished software projects and developer-facing tools
+- Open-source contributions across developer tools, scientific Python, and ML infrastructure
+- Backend and systems-oriented software engineering
+- Applied machine learning projects with reproducible workflows and evaluation
 
-## Recent Open-Source Contributions
+## Recent Open-Source Work
 
-- [excalidraw/excalidraw#11192](https://github.com/excalidraw/excalidraw/pull/11192)
-  Fixed grouped selection outlines so they use the active highlight color consistently, and added a regression test around the selection behavior.
-- [pytest-dev/pytest#14391](https://github.com/pytest-dev/pytest/pull/14391)
-  Updated `pytest.raises(..., match=...)` failures to preserve the original exception as the direct cause of the resulting `AssertionError`, with test coverage and changelog updates.
+- [NeoGeographyToolkit/StereoPipeline](https://github.com/NeoGeographyToolkit/StereoPipeline)
+  Merged fixes in planetary-imagery and geospatial tooling, including `point2dem` and `geodiff` behavior updates.
+- [mlflow/mlflow](https://github.com/mlflow/mlflow)
+  Contributed fixes for trace metrics, grouped session counts, Bedrock response parsing, and older-server artifact compatibility.
+- [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+  Merged a fix to improve `pytest.raises(..., match=...)` failure behavior.
+- [pydata/xarray](https://github.com/pydata/xarray), [rasterio/rasterio](https://github.com/rasterio/rasterio), and [sandialabs/staged-script](https://github.com/sandialabs/staged-script)
+  Contributed targeted fixes spanning numerical edge cases, API/docs behavior, and documentation tooling.
 
-## Featured Project
+## Selected Projects
 
 - [WildFireDetector](https://github.com/lavaFreak/WildFireDetector)
   Wildfire image-classification project with reproducible baselines, experiment tracking, arbitrary-image inference, and a final model that reached `96.5%` test accuracy with `0.991` AUC.
+- [scrabble-ai](https://github.com/lavaFreak/scrabble-ai)
+  JavaFX Scrabble project with move validation, scoring, dictionary support, and best-move search.
 
-## Tech Stack
+## Technical Focus
 
-- Languages: Python, Java, Haskell, C, C++, JavaScript, TypeScript
-- Libraries and tools: TensorFlow, OpenCV, NumPy, Pandas, Git, pytest
-- Areas of interest: backend development, ML, developer tooling, debugging, testing
+- Languages: Python, Java, Haskell, C/C++, JavaScript, TypeScript
+- Interests: debugging, testing, backend systems, scientific Python, developer tools, ML infrastructure
 - Environment: Linux, macOS
-
-## What You'll Find Here
-
-- Repositories centered on software engineering, ML, debugging, and problem solving
-- Open-source contributions showing how I work in existing codebases
 
 ## Contact
 
 - Email: [gemilazzo@gmail.com](mailto:gemilazzo@gmail.com)
 - GitHub: [github.com/lavaFreak](https://github.com/lavaFreak)
-
-More projects are in progress as I keep rounding out backend, ML, and developer-tooling work.
